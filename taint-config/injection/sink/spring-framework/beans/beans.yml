@@ -1,0 +1,2 @@
+sinks:
+  - { method: "<org.springframework.beans.BeanUtils: void copyProperties(java.lang.Object,java.lang.Object)>", index: 1 }
