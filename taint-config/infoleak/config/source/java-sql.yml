@@ -1,5 +1,0 @@
-sources:
-  - { kind: call, method: "<java.sql.ResultSet: java.lang.String getNString(int)>", index: result, type: "java.lang.String" }
-  - { kind: call, method: "<java.sql.ResultSet: java.lang.String getNString(long)>", index: result, type: "java.lang.String" }
-  - { kind: call, method: "<java.sql.ResultSet: java.lang.String getString(int)>", index: result, type: "java.lang.String" }
-  - { kind: call, method: "<java.sql.ResultSet: java.lang.String getString(long)>", index: result, type: "java.lang.String" }
