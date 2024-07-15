@@ -21,10 +21,10 @@ taint-config/
 ├── infoleak/
 │   ├── sink/           包含141条sink
 │   ├── source/         包含158条source
-│   └── transfer/       包含关于String的138条transfer  
 │
 ├── injection/
 │   ├── sink/           包含854条sink
 │   ├── source/         包含248条source
-│   └── transfer/       包含关于String的138条transfer
+│   
+└── transfer/       包含关于String的138条transfer
 ```
